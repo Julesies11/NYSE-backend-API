@@ -1,0 +1,313 @@
+2019-07-29 12:59:12.3001||DEBUG|NYSE_daily.Program|NYSE init main |url: |action: 
+2019-07-29 13:11:49.5041||DEBUG|NYSE_daily.Program|NYSE init main |url: |action: 
+2019-07-29 13:12:49.1831||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:12:49.1831||INFO|NYSE_Daily_price.Controllers.DailyPricesController|searchString =  |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:12:49.1979||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop =  |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:14:25.7875||DEBUG|NYSE_daily.Program|NYSE init main |url: |action: 
+2019-07-29 13:14:27.6092||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:14:27.6195||INFO|NYSE_Daily_price.Controllers.DailyPricesController|searchString =  |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:14:27.6195||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop = 1000 |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:19:14.0102||DEBUG|NYSE_daily.Program|NYSE init main |url: |action: 
+2019-07-29 13:19:15.7846||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:19:15.7914||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop = 1000 |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:24:14.9313||DEBUG|NYSE_daily.Program|NYSE init main |url: |action: 
+2019-07-29 13:24:16.6495||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:24:16.6495||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop = 1000 |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:24:57.8675||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:24:57.8675||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop = x |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:26:06.0036||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:26:06.0036||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop = x |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:28:41.0874||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:28:41.0874||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop = 100 |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:36:17.8046||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:36:17.8077||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop = 0 |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:36:21.2791||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:36:21.2791||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop = 5 |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:36:25.4857||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:36:25.4857||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop = 1000 |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:36:28.7728||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:36:28.7728||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop = 0 |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:36:33.6614||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:36:33.6614||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop = 0 |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:36:38.6739||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:36:38.6739||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop = 20000000 |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:37:01.6942||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:37:01.6942||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop = 9999999 |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:38:45.5305||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:38:45.5305||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop = 0 |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:38:48.1056||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:38:48.1148||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop = 2 |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:38:54.1280||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:38:54.1280||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop = 20 |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:38:59.8698||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:38:59.8743||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop = 2000000 |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:39:09.2539||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:39:09.2539||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop = 2000000 |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:39:38.2474||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:39:38.2498||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop = 0 |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:39:46.4811||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:39:46.4847||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop = 2 |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:50:04.4035||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:50:04.4035||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop = 4 |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:50:59.6155||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:50:59.6155||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop = 3 |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:51:32.1471||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:51:32.1471||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop = 300000 |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:51:41.6230||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:51:41.6325||INFO|NYSE_Daily_price.Controllers.DailyPricesController|queryTop = 30000 |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:56:41.1791||DEBUG|NYSE_daily.Program|NYSE init main |url: |action: 
+2019-07-29 13:56:42.9046||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:56:52.3255||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:57:47.1739||DEBUG|NYSE_daily.Program|NYSE init main |url: |action: 
+2019-07-29 13:57:48.9072||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 13:58:17.7815||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 13:58:17.9312||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 13:58:23.8760||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 14:00:47.6749||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:00:47.6936||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:02:07.7988||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:02:07.8142||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:02:12.3826||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 14:10:53.6319||DEBUG|NYSE_daily.Program|NYSE init main |url: |action: 
+2019-07-29 14:10:55.5158||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:10:55.9270||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:11:12.6416||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 14:15:38.9430||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 14:15:51.8692||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:15:51.8878||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:17:09.8967||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:17:09.9079||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:17:14.0129||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:17:14.1297|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (17ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (Size = 10), @p2='?' (DbType = Decimal), @p3='?' (DbType = Decimal), @p4='?' (DbType = Decimal), @p5='?' (DbType = Decimal), @p6='?' (DbType = Decimal), @p7='?' (Size = 10), @p8='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [DailyPrice] ([date], [stock_exchange], [stock_price_adj_close], [stock_price_close], [stock_price_high], [stock_price_low], [stock_price_open], [stock_symbol], [stock_volume])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8);
+SELECT [Id]
+FROM [DailyPrice]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity(); System.Data.SqlClient.SqlException (0x80131904): Cannot insert duplicate key row in object 'dbo.DailyPrice' with unique index 'IX_daily_unique'. The duplicate key value is (2019-07-29, kjhkjk, NYSE).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__122_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteAsync(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues, CancellationToken cancellationToken)
+ClientConnectionId:57a73a5c-69d6-4725-9d1c-de383ea09656
+Error Number:2601,State:1,Class:14|url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:17:14.1675|10000|ERROR|Microsoft.EntityFrameworkCore.Update|An exception occurred in the database while saving changes for context type 'NYSE_Daily_price.Models.DailyPriceContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: Cannot insert duplicate key row in object 'dbo.DailyPrice' with unique index 'IX_daily_unique'. The duplicate key value is (2019-07-29, kjhkjk, NYSE).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__122_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteAsync(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(DbContext _, ValueTuple`2 parameters, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IReadOnlyList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken) Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: Cannot insert duplicate key row in object 'dbo.DailyPrice' with unique index 'IX_daily_unique'. The duplicate key value is (2019-07-29, kjhkjk, NYSE).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__122_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteAsync(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(DbContext _, ValueTuple`2 parameters, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IReadOnlyList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)|url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:17:14.2395||FATAL|NYSE_Daily_price.Controllers.DailyPricesController|Exception while posting a new price record. Check the combination of 'Date','Stock Symbol' and 'Stock Exchange' are unique. Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: Cannot insert duplicate key row in object 'dbo.DailyPrice' with unique index 'IX_daily_unique'. The duplicate key value is (2019-07-29, kjhkjk, NYSE).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__122_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteAsync(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(DbContext _, ValueTuple`2 parameters, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IReadOnlyList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at NYSE_Daily_price.Controllers.DailyPricesController.PostDaily(DailyPrice daily) in C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_daily\Controllers\DailyPricesController.cs:line 197|url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:20:30.5116||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:20:30.5332||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:20:33.1622||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:20:33.1841|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (2ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (Size = 10), @p2='?' (DbType = Decimal), @p3='?' (DbType = Decimal), @p4='?' (DbType = Decimal), @p5='?' (DbType = Decimal), @p6='?' (DbType = Decimal), @p7='?' (Size = 10), @p8='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [DailyPrice] ([date], [stock_exchange], [stock_price_adj_close], [stock_price_close], [stock_price_high], [stock_price_low], [stock_price_open], [stock_symbol], [stock_volume])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8);
+SELECT [Id]
+FROM [DailyPrice]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity(); System.Data.SqlClient.SqlException (0x80131904): Cannot insert duplicate key row in object 'dbo.DailyPrice' with unique index 'IX_daily_unique'. The duplicate key value is (2019-07-29, ouiuio, NYSE).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__122_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteAsync(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues, CancellationToken cancellationToken)
+ClientConnectionId:7b77ad0d-6132-442d-b6cc-fae198b7bc95
+Error Number:2601,State:1,Class:14|url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:20:33.1841|10000|ERROR|Microsoft.EntityFrameworkCore.Update|An exception occurred in the database while saving changes for context type 'NYSE_Daily_price.Models.DailyPriceContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: Cannot insert duplicate key row in object 'dbo.DailyPrice' with unique index 'IX_daily_unique'. The duplicate key value is (2019-07-29, ouiuio, NYSE).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__122_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteAsync(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(DbContext _, ValueTuple`2 parameters, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IReadOnlyList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken) Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: Cannot insert duplicate key row in object 'dbo.DailyPrice' with unique index 'IX_daily_unique'. The duplicate key value is (2019-07-29, ouiuio, NYSE).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__122_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteAsync(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(DbContext _, ValueTuple`2 parameters, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IReadOnlyList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)|url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:20:33.2307||FATAL|NYSE_Daily_price.Controllers.DailyPricesController|Exception while posting a new price record. Check the combination of 'Date','Stock Symbol' and 'Stock Exchange' are unique. Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: Cannot insert duplicate key row in object 'dbo.DailyPrice' with unique index 'IX_daily_unique'. The duplicate key value is (2019-07-29, ouiuio, NYSE).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__122_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteAsync(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(DbContext _, ValueTuple`2 parameters, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IReadOnlyList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at NYSE_Daily_price.Controllers.DailyPricesController.PostDaily(DailyPrice daily) in C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_daily\Controllers\DailyPricesController.cs:line 197|url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:20:42.9490||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:20:42.9490||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:20:44.6570||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:20:44.6636|20102|ERROR|Microsoft.EntityFrameworkCore.Database.Command|Failed executing DbCommand (2ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (Size = 10), @p2='?' (DbType = Decimal), @p3='?' (DbType = Decimal), @p4='?' (DbType = Decimal), @p5='?' (DbType = Decimal), @p6='?' (DbType = Decimal), @p7='?' (Size = 10), @p8='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [DailyPrice] ([date], [stock_exchange], [stock_price_adj_close], [stock_price_close], [stock_price_high], [stock_price_low], [stock_price_open], [stock_symbol], [stock_volume])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8);
+SELECT [Id]
+FROM [DailyPrice]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity(); System.Data.SqlClient.SqlException (0x80131904): Cannot insert duplicate key row in object 'dbo.DailyPrice' with unique index 'IX_daily_unique'. The duplicate key value is (2019-07-29, ouiui, NYSE).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__122_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteAsync(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues, CancellationToken cancellationToken)
+ClientConnectionId:7b77ad0d-6132-442d-b6cc-fae198b7bc95
+Error Number:2601,State:1,Class:14|url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:20:44.6636|10000|ERROR|Microsoft.EntityFrameworkCore.Update|An exception occurred in the database while saving changes for context type 'NYSE_Daily_price.Models.DailyPriceContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: Cannot insert duplicate key row in object 'dbo.DailyPrice' with unique index 'IX_daily_unique'. The duplicate key value is (2019-07-29, ouiui, NYSE).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__122_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteAsync(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(DbContext _, ValueTuple`2 parameters, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IReadOnlyList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken) Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: Cannot insert duplicate key row in object 'dbo.DailyPrice' with unique index 'IX_daily_unique'. The duplicate key value is (2019-07-29, ouiui, NYSE).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__122_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteAsync(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(DbContext _, ValueTuple`2 parameters, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IReadOnlyList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)|url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:20:44.7103||FATAL|NYSE_Daily_price.Controllers.DailyPricesController|Exception while posting a new price record. Check the combination of 'Date','Stock Symbol' and 'Stock Exchange' are unique. Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details. ---> System.Data.SqlClient.SqlException: Cannot insert duplicate key row in object 'dbo.DailyPrice' with unique index 'IX_daily_unique'. The duplicate key value is (2019-07-29, ouiui, NYSE).
+The statement has been terminated.
+   at System.Data.SqlClient.SqlCommand.<>c.<ExecuteDbDataReaderAsync>b__122_0(Task`1 result)
+   at System.Threading.Tasks.ContinuationResultTaskFromResultTask`2.InnerInvoke()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot)
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.EntityFrameworkCore.Storage.Internal.RelationalCommand.ExecuteAsync(IRelationalConnection connection, DbCommandMethod executeMethod, IReadOnlyDictionary`2 parameterValues, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(DbContext _, ValueTuple`2 parameters, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IReadOnlyList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at NYSE_Daily_price.Controllers.DailyPricesController.PostDaily(DailyPrice daily) in C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_daily\Controllers\DailyPricesController.cs:line 197|url: https://localhost/api/dailyprices|action: PostDaily
+2019-07-29 14:20:59.8821||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 16:09:41.7619||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 16:12:22.4401||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 16:12:45.5755||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 16:13:34.0768||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 16:19:28.3335||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 16:52:37.4850||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 16:57:39.8986||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 16:58:11.3593||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 16:59:43.8495||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 17:00:20.8390||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 17:01:29.2563||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 17:05:27.6056||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 17:05:57.4868||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 17:07:35.2486||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 17:09:33.7853||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 17:12:55.3152||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 17:13:45.0351||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 17:14:46.3431||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-07-29 17:16:31.4974||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices

@@ -1,0 +1,4 @@
+2019-08-13 12:17:30.7586||DEBUG|NYSE_daily.Program|NYSE init main |url: |action: 
+2019-08-13 12:17:34.1123||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Start Hello World. |url: https://localhost/api/dailyprices/hellowworld|action: GetHelloWorld
+2019-08-13 14:57:57.8500||DEBUG|NYSE_daily.Program|NYSE init main |url: |action: 
+2019-08-13 14:59:02.1722||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Start Hello World. |url: https://localhost/api/dailyprices/hellowworld|action: GetHelloWorld

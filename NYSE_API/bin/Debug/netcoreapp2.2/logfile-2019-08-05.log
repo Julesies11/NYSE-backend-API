@@ -1,0 +1,72 @@
+2019-08-05 14:06:28.7537||DEBUG|NYSE_daily.Program|NYSE init main |url: |action: 
+2019-08-05 14:06:33.3958||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-05 14:06:49.1950||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-08-05 14:06:49.3209||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-08-05 14:07:14.1885||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-08-05 14:07:14.2005||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-08-05 14:07:17.8377||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-05 14:07:24.1445||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-05 14:07:38.1422||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:07:38.1963||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:07:45.6392||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: PUT for id '102690'. |url: https://localhost/api/dailyprices/102690|action: PutDailyPrice
+2019-08-05 14:07:45.6890||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: PUT for id '102690'. |url: https://localhost/api/dailyprices/102690|action: PutDailyPrice
+2019-08-05 14:07:45.7146||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-05 14:07:45.8546||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:07:45.8644||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:07:54.9538||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '102689'. |url: https://localhost/api/dailyprices/102689|action: GetDailyPricesById
+2019-08-05 14:07:54.9538||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '102689'. |url: https://localhost/api/dailyprices/102689|action: GetDailyPricesById
+2019-08-05 14:07:59.5302||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:07:59.5464||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:08:05.4856||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: PUT for id '102690'. |url: https://localhost/api/dailyprices/102690|action: PutDailyPrice
+2019-08-05 14:08:05.4987||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: PUT for id '102690'. |url: https://localhost/api/dailyprices/102690|action: PutDailyPrice
+2019-08-05 14:08:05.5227||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-05 14:08:05.6752||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:08:05.6850||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:08:14.4216||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:08:14.4216||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:08:16.6024||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:08:16.6102||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:08:16.8109||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:08:16.8245||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:08:16.9740||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:08:16.9828||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:08:17.1470||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:08:17.1543||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:08:17.3518||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:08:17.3603||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:08:19.0868||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:08:19.0976||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:08:19.2875||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:08:19.2959||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:08:19.6586||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:08:19.6688||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '102690'. |url: https://localhost/api/dailyprices/102690|action: GetDailyPricesById
+2019-08-05 14:08:25.5646||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: DELETE for id '102690'. |url: https://localhost/api/dailyprices/102690|action: DeleteDailyPrice
+2019-08-05 14:08:25.5841||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: DELETE for id '102690'. |url: https://localhost/api/dailyprices/102690|action: DeleteDailyPrice
+2019-08-05 14:08:25.6183||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-05 14:12:26.7949||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '102687'. |url: https://localhost/api/dailyprices/102687|action: GetDailyPricesById
+2019-08-05 14:12:26.7949||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '102687'. |url: https://localhost/api/dailyprices/102687|action: GetDailyPricesById
+2019-08-05 14:12:28.1937||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: DELETE for id '102687'. |url: https://localhost/api/dailyprices/102687|action: DeleteDailyPrice
+2019-08-05 14:12:28.2106||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: DELETE for id '102687'. |url: https://localhost/api/dailyprices/102687|action: DeleteDailyPrice
+2019-08-05 14:12:28.2413||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-05 14:12:35.9084||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-05 14:14:34.5186||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '102689'. |url: https://localhost/api/dailyprices/102689|action: GetDailyPricesById
+2019-08-05 14:14:34.5277||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '102689'. |url: https://localhost/api/dailyprices/102689|action: GetDailyPricesById
+2019-08-05 14:20:17.9672||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-08-05 14:20:17.9928||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: POST price record. |url: https://localhost/api/dailyprices|action: PostDaily
+2019-08-05 14:20:24.9977||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-05 14:20:29.1920||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-05 14:20:31.2342||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '102691'. |url: https://localhost/api/dailyprices/102691|action: GetDailyPricesById
+2019-08-05 14:20:31.2342||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '102691'. |url: https://localhost/api/dailyprices/102691|action: GetDailyPricesById
+2019-08-05 14:20:36.1137||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: PUT for id '102691'. |url: https://localhost/api/dailyprices/102691|action: PutDailyPrice
+2019-08-05 14:20:36.1306||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: PUT for id '102691'. |url: https://localhost/api/dailyprices/102691|action: PutDailyPrice
+2019-08-05 14:20:36.1579||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-05 14:20:36.3002||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '102691'. |url: https://localhost/api/dailyprices/102691|action: GetDailyPricesById
+2019-08-05 14:20:36.3107||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '102691'. |url: https://localhost/api/dailyprices/102691|action: GetDailyPricesById
+2019-08-05 14:21:05.2621||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-05 14:21:07.4678||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '102691'. |url: https://localhost/api/dailyprices/102691|action: GetDailyPricesById
+2019-08-05 14:21:07.4678||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '102691'. |url: https://localhost/api/dailyprices/102691|action: GetDailyPricesById
+2019-08-05 14:21:10.4813||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: DELETE for id '102691'. |url: https://localhost/api/dailyprices/102691|action: DeleteDailyPrice
+2019-08-05 14:21:10.4950||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: DELETE for id '102691'. |url: https://localhost/api/dailyprices/102691|action: DeleteDailyPrice
+2019-08-05 14:21:10.5285||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-05 14:41:09.5288||DEBUG|NYSE_daily.Program|NYSE init main |url: |action: 
+2019-08-05 14:41:11.1937||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: https://localhost/api/dailyprices|action: GetDailyPrices

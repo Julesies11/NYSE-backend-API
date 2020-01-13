@@ -1,0 +1,62 @@
+2019-08-26 14:25:51.7032||DEBUG|NYSE_daily.Program|NYSE init main |url: |action: 
+2019-08-26 14:25:53.5799|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/api/dailyprices/hellowworld|action: 
+2019-08-26 14:25:54.0026||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Start Hello World. |url: http://localhost/api/dailyprices/hellowworld|action: GetHelloWorld
+2019-08-26 14:25:54.2585||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-26 14:55:39.7708||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 14:55:39.8544||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 14:55:40.1105||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Start Hello World. |url: http://localhost/api/dailyprices/hellowworld|action: GetHelloWorld
+2019-08-26 14:55:40.1579||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-26 14:56:35.6002||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 14:56:35.6104||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 14:56:35.8065||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Start Hello World. |url: http://localhost/api/dailyprices/hellowworld|action: GetHelloWorld
+2019-08-26 14:56:35.8347||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-26 14:57:32.4099||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 14:57:32.4232||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 14:57:32.6187||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-26 14:57:32.6581||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Start Hello World. |url: http://localhost/api/dailyprices/hellowworld|action: GetHelloWorld
+2019-08-26 14:59:06.8897||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Start Hello World. |url: http://localhost/api/dailyprices/hellowworld|action: GetHelloWorld
+2019-08-26 14:59:07.0425||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 14:59:07.0566||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 14:59:07.1621||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-26 15:00:28.3862||DEBUG|NYSE_daily.Program|NYSE init main |url: |action: 
+2019-08-26 15:00:29.7066|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/api/dailyprices/hellowworld|action: 
+2019-08-26 15:00:30.0132||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Start Hello World. |url: http://localhost/api/dailyprices/hellowworld|action: GetHelloWorld
+2019-08-26 15:00:30.2560||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 15:00:30.7488||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 15:00:30.9035||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-26 15:00:48.8283||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Start Hello World. |url: http://localhost/api/dailyprices/hellowworld|action: GetHelloWorld
+2019-08-26 15:00:48.9755||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 15:00:48.9913||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 15:00:49.0871||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-26 15:04:05.3251||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 15:04:05.3384||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 15:04:05.5618||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Start Hello World. |url: http://localhost/api/dailyprices/hellowworld|action: GetHelloWorld
+2019-08-26 15:04:05.5909||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 15:04:05.6032||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 15:04:05.6378||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-26 15:04:57.0067||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 15:04:57.0239||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 15:04:57.2285||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 15:04:57.2456||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 15:04:57.2792||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-26 15:04:57.3182||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Start Hello World. |url: http://localhost/api/dailyprices/hellowworld|action: GetHelloWorld
+2019-08-26 15:05:18.9521||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 15:05:18.9638||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 15:05:19.1907||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 15:05:19.1989||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 15:05:19.2362||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-26 15:05:19.2859||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Start Hello World. |url: http://localhost/api/dailyprices/hellowworld|action: GetHelloWorld
+2019-08-26 15:09:21.2217||DEBUG|NYSE_daily.Program|NYSE init main |url: |action: 
+2019-08-26 15:09:22.6299|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/api/dailyprices|action: 
+2019-08-26 15:09:22.9463||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-26 15:10:17.4805||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-26 15:13:59.8977||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-26 15:14:09.4551||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 15:14:09.5040||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 15:14:09.7059||INFO|NYSE_Daily_price.Controllers.DailyPricesController|START: GET price record for id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 15:14:09.7059||INFO|NYSE_Daily_price.Controllers.DailyPricesController|END: GET price record for Id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2019-08-26 15:14:09.7521||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2019-08-26 15:14:09.8034||INFO|NYSE_Daily_price.Controllers.DailyPricesController|Start Hello World. |url: http://localhost/api/dailyprices/hellowworld|action: GetHelloWorld
+2019-08-26 15:37:51.4330||DEBUG|NYSE.API.Program|NYSE init main |url: |action: 
+2019-08-26 15:37:52.8394|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/api/dailyprices|action: 
+2019-08-26 15:37:53.1227||INFO|NYSE.API.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices

@@ -1,0 +1,17 @@
+2019-08-29 14:09:24.1424||DEBUG|NYSE.API.Program|NYSE init main |url: |action: 
+2019-08-29 14:09:26.1231|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/api/dailyprices/helloworld|action: 
+2019-08-29 14:09:26.5300||INFO|NYSE.API.Controllers.DailyPricesController|Start Hello World. |url: http://localhost/api/dailyprices/helloworld|action: GetHelloWorld
+2019-08-29 14:10:35.4734||DEBUG|NYSE.API.Program|NYSE init main |url: |action: 
+2019-08-29 14:11:11.1635|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/api/dailyprices/helloworld|action: 
+2019-08-29 14:11:11.4960||INFO|NYSE.API.Controllers.DailyPricesController|Start Hello World. |url: http://localhost/api/dailyprices/helloworld|action: GetHelloWorld
+2019-08-29 14:12:28.1996||DEBUG|NYSE.API.Program|NYSE init main |url: |action: 
+2019-08-29 14:16:20.3847||DEBUG|NYSE.API.Program|NYSE init main |url: |action: 
+2019-08-29 14:16:21.9893|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/api/dailyprices/helloworld|action: 
+2019-08-29 14:16:22.3284||INFO|NYSE.API.Controllers.DailyPricesController|Start Hello World. |url: http://localhost/api/dailyprices/helloworld|action: GetHelloWorld
+2019-08-29 14:17:35.5973||DEBUG|NYSE.API.Program|NYSE init main |url: |action: 
+2019-08-29 14:29:13.8564||DEBUG|NYSE.API.Program|NYSE init main |url: |action: 
+2019-08-29 14:35:05.8077||DEBUG|NYSE.API.Program|NYSE init main |url: |action: 
+2019-08-29 14:35:15.0344|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/api/dailyprices/helloworld|action: 
+2019-08-29 14:35:15.3349||INFO|NYSE.API.Controllers.DailyPricesController|Start Hello World. |url: http://localhost/api/dailyprices/helloworld|action: GetHelloWorld
+2019-08-29 14:36:04.1278||DEBUG|NYSE.API.Program|NYSE init main |url: |action: 
+2019-08-29 14:37:16.5829||DEBUG|NYSE.API.Program|NYSE init main |url: |action: 

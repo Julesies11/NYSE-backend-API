@@ -1,0 +1,17 @@
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_Test\bin\Debug\netcoreapp2.2\NYSE_Test.deps.json
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_Test\bin\Debug\netcoreapp2.2\NYSE_Test.runtimeconfig.json
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_Test\bin\Debug\netcoreapp2.2\NYSE_Test.runtimeconfig.dev.json
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_Test\bin\Debug\netcoreapp2.2\NYSE_Test.dll
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_Test\bin\Debug\netcoreapp2.2\NYSE_daily.dll
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_Test\bin\Debug\netcoreapp2.2\NYSE_daily.pdb
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_Test\obj\Debug\netcoreapp2.2\NYSE_Test.csprojAssemblyReference.cache
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_Test\obj\Debug\netcoreapp2.2\NYSE_Test.csproj.CoreCompileInputs.cache
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_Test\obj\Debug\netcoreapp2.2\NYSE_Test.AssemblyInfoInputs.cache
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_Test\obj\Debug\netcoreapp2.2\NYSE_Test.AssemblyInfo.cs
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_Test\obj\Debug\netcoreapp2.2\NYSE_Test.csproj.CopyComplete
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_Test\bin\Debug\netcoreapp2.2\NYSE_Test.pdb
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_Test\obj\Debug\netcoreapp2.2\NYSE_Test.dll
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_Test\obj\Debug\netcoreapp2.2\NYSE_Test.pdb

@@ -1,0 +1,9 @@
+2020-01-09 15:52:10.6644||DEBUG|NYSE.API.Program|NYSE init main |url: |action: 
+2020-01-09 15:52:12.9127|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/api/dailyprices|action: 
+2020-01-09 15:52:13.3573||INFO|NYSE.API.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2020-01-09 16:47:24.7015||DEBUG|NYSE.API.Program|NYSE init main |url: |action: 
+2020-01-09 16:47:26.5082|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/api/dailyprices|action: 
+2020-01-09 16:47:26.8509||INFO|NYSE.API.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2020-01-09 17:00:25.4095||INFO|NYSE.API.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2020-01-09 17:02:35.6262||INFO|NYSE.API.Controllers.DailyPricesController|START: GET price record for id '102683'. |url: http://localhost/api/dailyprices/102683|action: GetDailyPricesById
+2020-01-09 17:02:35.7294||INFO|NYSE.API.Controllers.DailyPricesController|END: GET price record for Id '102683'. |url: http://localhost/api/dailyprices/102683|action: GetDailyPricesById

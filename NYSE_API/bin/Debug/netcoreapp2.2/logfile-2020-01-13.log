@@ -1,0 +1,36 @@
+2020-01-13 13:16:31.0521||DEBUG|NYSE.API.Program|NYSE init main |url: |action: 
+2020-01-13 13:16:32.9470|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/api/dailyprices/100|action: 
+2020-01-13 13:16:33.3652||INFO|NYSE.API.Controllers.DailyPricesController|START: GET price record for id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2020-01-13 13:16:33.9565||INFO|NYSE.API.Controllers.DailyPricesController|END: GET price record for Id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2020-01-13 13:16:35.0399||INFO|NYSE.API.Controllers.DailyPricesController|START: GET price record for id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2020-01-13 13:16:35.1112||INFO|NYSE.API.Controllers.DailyPricesController|END: GET price record for Id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2020-01-13 13:16:35.2609||INFO|NYSE.API.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2020-01-13 13:16:35.4448||INFO|NYSE.API.Controllers.DailyPricesController|Start Hello World. |url: http://localhost/api/dailyprices/helloworld|action: GetHelloWorld
+2020-01-13 13:19:06.3140||INFO|NYSE.API.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2020-01-13 13:19:14.9591||INFO|NYSE.API.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2020-01-13 13:19:17.3496||INFO|NYSE.API.Controllers.DailyPricesController|START: GET price record for id '102580'. |url: http://localhost/api/dailyprices/102580|action: GetDailyPricesById
+2020-01-13 13:19:17.3800||INFO|NYSE.API.Controllers.DailyPricesController|END: GET price record for Id '102580'. |url: http://localhost/api/dailyprices/102580|action: GetDailyPricesById
+2020-01-13 13:19:20.8374||INFO|NYSE.API.Controllers.DailyPricesController|START: GET price record for id '102580'. |url: http://localhost/api/dailyprices/102580|action: GetDailyPricesById
+2020-01-13 13:19:20.8713||INFO|NYSE.API.Controllers.DailyPricesController|END: GET price record for Id '102580'. |url: http://localhost/api/dailyprices/102580|action: GetDailyPricesById
+2020-01-13 13:19:21.7624||INFO|NYSE.API.Controllers.DailyPricesController|START: GET price record for id '102580'. |url: http://localhost/api/dailyprices/102580|action: GetDailyPricesById
+2020-01-13 13:19:21.8078||INFO|NYSE.API.Controllers.DailyPricesController|END: GET price record for Id '102580'. |url: http://localhost/api/dailyprices/102580|action: GetDailyPricesById
+2020-01-13 13:19:52.5543||INFO|NYSE.API.Controllers.DailyPricesController|START: GET price record for id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2020-01-13 13:19:52.6009||INFO|NYSE.API.Controllers.DailyPricesController|END: GET price record for Id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2020-01-13 13:19:53.5656||INFO|NYSE.API.Controllers.DailyPricesController|START: GET price record for id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2020-01-13 13:19:53.6200||INFO|NYSE.API.Controllers.DailyPricesController|END: GET price record for Id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2020-01-13 13:19:53.6944||INFO|NYSE.API.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2020-01-13 13:19:53.8249||INFO|NYSE.API.Controllers.DailyPricesController|Start Hello World. |url: http://localhost/api/dailyprices/helloworld|action: GetHelloWorld
+2020-01-13 13:24:11.8438||INFO|NYSE.API.Controllers.DailyPricesController|START: GET price record for id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2020-01-13 13:24:11.8961||INFO|NYSE.API.Controllers.DailyPricesController|END: GET price record for Id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2020-01-13 13:24:12.9936||INFO|NYSE.API.Controllers.DailyPricesController|START: GET price record for id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2020-01-13 13:24:13.0280||INFO|NYSE.API.Controllers.DailyPricesController|END: GET price record for Id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2020-01-13 13:24:13.1187||INFO|NYSE.API.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2020-01-13 13:24:13.2505||INFO|NYSE.API.Controllers.DailyPricesController|Start Hello World. |url: http://localhost/api/dailyprices/helloworld|action: GetHelloWorld
+2020-01-13 13:24:25.5014||INFO|NYSE.API.Controllers.DailyPricesController|START: GET price record for id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2020-01-13 13:24:25.5633||INFO|NYSE.API.Controllers.DailyPricesController|END: GET price record for Id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2020-01-13 13:30:26.8745||INFO|NYSE.API.Controllers.DailyPricesController|START: GET price record for id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2020-01-13 13:30:26.9402||INFO|NYSE.API.Controllers.DailyPricesController|END: GET price record for Id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2020-01-13 13:30:28.1300||INFO|NYSE.API.Controllers.DailyPricesController|START: GET price record for id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2020-01-13 13:30:28.1591||INFO|NYSE.API.Controllers.DailyPricesController|END: GET price record for Id '100'. |url: http://localhost/api/dailyprices/100|action: GetDailyPricesById
+2020-01-13 13:30:28.2866||INFO|NYSE.API.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2020-01-13 13:30:28.4101||INFO|NYSE.API.Controllers.DailyPricesController|Start Hello World. |url: http://localhost/api/dailyprices/helloworld|action: GetHelloWorld

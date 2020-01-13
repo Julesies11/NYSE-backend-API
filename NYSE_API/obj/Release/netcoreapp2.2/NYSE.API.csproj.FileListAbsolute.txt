@@ -1,0 +1,46 @@
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_daily\bin\Release\netcoreapp2.2\nlog.config
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_daily\bin\Release\netcoreapp2.2\NYSE.API.deps.json
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_daily\bin\Release\netcoreapp2.2\NYSE.API.runtimeconfig.json
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_daily\bin\Release\netcoreapp2.2\NYSE.API.runtimeconfig.dev.json
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_daily\bin\Release\netcoreapp2.2\NYSE.API.dll
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_daily\bin\Release\netcoreapp2.2\NYSE.API.pdb
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_daily\obj\Release\netcoreapp2.2\NYSE.API.csprojAssemblyReference.cache
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_daily\obj\Release\netcoreapp2.2\NYSE.API.csproj.CoreCompileInputs.cache
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_daily\obj\Release\netcoreapp2.2\NYSE.API.RazorAssemblyInfo.cache
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_daily\obj\Release\netcoreapp2.2\NYSE.API.RazorAssemblyInfo.cs
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_daily\obj\Release\netcoreapp2.2\NYSE.API.AssemblyInfoInputs.cache
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_daily\obj\Release\netcoreapp2.2\NYSE.API.AssemblyInfo.cs
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_daily\obj\Release\netcoreapp2.2\NYSE.API.RazorTargetAssemblyInfo.cache
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_daily\obj\Release\netcoreapp2.2\NYSE.API.dll
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE_daily\NYSE_daily\obj\Release\netcoreapp2.2\NYSE.API.pdb
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\bin\Release\netcoreapp2.2\nlog.config
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\bin\Release\netcoreapp2.2\NYSE.API.deps.json
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\bin\Release\netcoreapp2.2\NYSE.API.runtimeconfig.json
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\bin\Release\netcoreapp2.2\NYSE.API.runtimeconfig.dev.json
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\bin\Release\netcoreapp2.2\NYSE.API.dll
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\bin\Release\netcoreapp2.2\NYSE.API.pdb
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\obj\Release\netcoreapp2.2\NYSE.API.csproj.CoreCompileInputs.cache
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\obj\Release\netcoreapp2.2\NYSE.API.RazorAssemblyInfo.cache
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\obj\Release\netcoreapp2.2\NYSE.API.RazorAssemblyInfo.cs
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\obj\Release\netcoreapp2.2\NYSE.API.AssemblyInfoInputs.cache
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\obj\Release\netcoreapp2.2\NYSE.API.AssemblyInfo.cs
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\obj\Release\netcoreapp2.2\NYSE.API.RazorTargetAssemblyInfo.cache
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\obj\Release\netcoreapp2.2\NYSE.API.dll
+C:\Users\jgibbings\Documents\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\obj\Release\netcoreapp2.2\NYSE.API.pdb
+H:\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\bin\Release\netcoreapp2.2\nlog.config
+H:\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\bin\Release\netcoreapp2.2\appsettings.Development.json
+H:\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\bin\Release\netcoreapp2.2\appsettings.json
+H:\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+H:\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\bin\Release\netcoreapp2.2\NYSE.API.deps.json
+H:\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\bin\Release\netcoreapp2.2\NYSE.API.runtimeconfig.json
+H:\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\bin\Release\netcoreapp2.2\NYSE.API.runtimeconfig.dev.json
+H:\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\bin\Release\netcoreapp2.2\NYSE.API.dll
+H:\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\bin\Release\netcoreapp2.2\NYSE.API.pdb
+H:\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\obj\Release\netcoreapp2.2\NYSE.API.csprojAssemblyReference.cache
+H:\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\obj\Release\netcoreapp2.2\NYSE.API.RazorAssemblyInfo.cache
+H:\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\obj\Release\netcoreapp2.2\NYSE.API.RazorAssemblyInfo.cs
+H:\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\obj\Release\netcoreapp2.2\NYSE.API.AssemblyInfoInputs.cache
+H:\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\obj\Release\netcoreapp2.2\NYSE.API.AssemblyInfo.cs
+H:\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\obj\Release\netcoreapp2.2\NYSE.API.RazorTargetAssemblyInfo.cache
+H:\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\obj\Release\netcoreapp2.2\NYSE.API.dll
+H:\Personal\Tafe\Upskilled\2. Security\NYSE Assessment\NYSE API\NYSE_API\obj\Release\netcoreapp2.2\NYSE.API.pdb

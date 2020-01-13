@@ -1,0 +1,24 @@
+2019-12-24 08:54:39.6895||DEBUG|NYSE.API.Program|NYSE init main |url: |action: 
+2019-12-24 08:54:41.8727|3|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. |url: http://localhost/api/dailyprices|action: 
+2019-12-24 08:54:42.2897||INFO|NYSE.API.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2019-12-24 08:54:57.6744||INFO|NYSE.API.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2019-12-24 08:55:02.7005||INFO|NYSE.API.Controllers.DailyPricesController|START: GET price record for id '102687'. |url: http://localhost/api/dailyprices/102687|action: GetDailyPricesById
+2019-12-24 08:55:02.7647||INFO|NYSE.API.Controllers.DailyPricesController|END: GET price record for Id '102687'. |url: http://localhost/api/dailyprices/102687|action: GetDailyPricesById
+2019-12-24 08:55:03.9690||INFO|NYSE.API.Controllers.DailyPricesController|START: DELETE for id '102687'. |url: http://localhost/api/dailyprices/102687|action: DeleteDailyPrice
+2019-12-24 08:55:04.0761||INFO|NYSE.API.Controllers.DailyPricesController|END: DELETE for id '102687'. |url: http://localhost/api/dailyprices/102687|action: DeleteDailyPrice
+2019-12-24 08:55:04.1268||INFO|NYSE.API.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2019-12-24 08:55:06.4964||INFO|NYSE.API.Controllers.DailyPricesController|START: GET price record for id '102686'. |url: http://localhost/api/dailyprices/102686|action: GetDailyPricesById
+2019-12-24 08:55:06.5348||INFO|NYSE.API.Controllers.DailyPricesController|END: GET price record for Id '102686'. |url: http://localhost/api/dailyprices/102686|action: GetDailyPricesById
+2019-12-24 08:55:07.3306||INFO|NYSE.API.Controllers.DailyPricesController|START: DELETE for id '102686'. |url: http://localhost/api/dailyprices/102686|action: DeleteDailyPrice
+2019-12-24 08:55:07.3785||INFO|NYSE.API.Controllers.DailyPricesController|END: DELETE for id '102686'. |url: http://localhost/api/dailyprices/102686|action: DeleteDailyPrice
+2019-12-24 08:55:07.4568||INFO|NYSE.API.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2019-12-24 08:55:10.3532||INFO|NYSE.API.Controllers.DailyPricesController|START: GET price record for id '102685'. |url: http://localhost/api/dailyprices/102685|action: GetDailyPricesById
+2019-12-24 08:55:10.3955||INFO|NYSE.API.Controllers.DailyPricesController|END: GET price record for Id '102685'. |url: http://localhost/api/dailyprices/102685|action: GetDailyPricesById
+2019-12-24 08:55:11.1664||INFO|NYSE.API.Controllers.DailyPricesController|START: DELETE for id '102685'. |url: http://localhost/api/dailyprices/102685|action: DeleteDailyPrice
+2019-12-24 08:55:11.2096||INFO|NYSE.API.Controllers.DailyPricesController|END: DELETE for id '102685'. |url: http://localhost/api/dailyprices/102685|action: DeleteDailyPrice
+2019-12-24 08:55:11.2701||INFO|NYSE.API.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
+2019-12-24 08:55:13.9249||INFO|NYSE.API.Controllers.DailyPricesController|START: GET price record for id '102684'. |url: http://localhost/api/dailyprices/102684|action: GetDailyPricesById
+2019-12-24 08:55:13.9526||INFO|NYSE.API.Controllers.DailyPricesController|END: GET price record for Id '102684'. |url: http://localhost/api/dailyprices/102684|action: GetDailyPricesById
+2019-12-24 08:55:14.7656||INFO|NYSE.API.Controllers.DailyPricesController|START: DELETE for id '102684'. |url: http://localhost/api/dailyprices/102684|action: DeleteDailyPrice
+2019-12-24 08:55:14.8033||INFO|NYSE.API.Controllers.DailyPricesController|END: DELETE for id '102684'. |url: http://localhost/api/dailyprices/102684|action: DeleteDailyPrice
+2019-12-24 08:55:14.8533||INFO|NYSE.API.Controllers.DailyPricesController|Return all daily prices. |url: http://localhost/api/dailyprices|action: GetDailyPrices
